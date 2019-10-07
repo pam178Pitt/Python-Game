@@ -2,7 +2,7 @@ from random import shuffle
 print("Project 3 By: Patrick Mayer")
 print("---------------------------")
 #uses total of 4 classes
-#create card class
+#create card clas
 class Card(object):
     def __init__(self, player, funds=1000):
         self.dealer = Dealer()
